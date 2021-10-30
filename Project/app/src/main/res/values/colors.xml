@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Primary">#00b4dc</color>
+    <color name="PrimaryDark">#0082a9</color>
+    <color name="PrimaryLight">#63e6ff</color>
+    <color name="Accent">#dc2800</color>
+    <color name="AccentDark">#a20000</color>
+    <color name="AccentLight">#ff6234</color>
+
+    <color name="AccentText">#ffffff</color>
+    <color name="PrimaryText">#000000</color>
+
+    <color name="Background">#161D2C</color>
+
+
+    <color name="White">#ffffff</color>
+    <color name="Gray">#CACACA</color>
+    <color name="LightBlack">#171C26</color>
+    <color name="Black">#000000</color>
+
+    <color name="Analogous1">#00dc96</color>
+    <color name="Analogous2">#0046dc</color>
+    <color name="Triadic1">#2800dc</color>
+    <color name="Triadic2">#dc00b4</color>
+
+
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">SNotes</string>
+
+    <string name="list">List all</string>
+    <string name="add">Add</string>
+    <string name="search">Search</string>
+    <string name="see">Open</string>
+    <string name="edit">Edit</string>
+
+
+    <string name="ntitle">Notes title</string>
+    <string name="ndesc">Notes description</string>
+
+    <string name="deleteNota">Nothing to delete</string>
+    <string name="titleNota">Title is Required</string>
+    <string name="descNota">Description is Required</string>
+
+
+</resources>

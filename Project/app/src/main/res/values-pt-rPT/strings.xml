@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="list">Listar</string>
+    <string name="add">Adicionar</string>
+    <string name="search">Procurar</string>
+    <string name="see">Abrir</string>
+    <string name="edit">Editar</string>
+
+
+    <string name="ntitle">Titulo</string>
+    <string name="ndesc">Descrição</string>
+
+    <string name="deleteNota">Nada para apagar</string>
+    <string name="titleNota">título em falta</string>
+    <string name="descNota">Descrição em falta</string>
+</resources>
